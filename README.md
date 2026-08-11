@@ -166,23 +166,47 @@ The objective is continuous improvement.
 
 ---
 
-## What Comes Next
+## Executive Toolkit
 
-This repository will progressively include practical tools for each part of the operating system:
+The operating system is supported by practical frameworks and tools designed to move from diagnosis to execution.
 
-- Strategy framework
-- Organizational diagnostic
-- Priority-setting framework
-- Decision-rights matrix
-- Executive KPI architecture
-- Weekly operating review
-- Monthly business review
-- Leadership scorecard
-- Organizational health diagnostic
-- Transformation framework
-- 90-day executive plan
+### 01. Organizational Diagnostic
 
-The goal is to turn the operating philosophy into practical tools leaders can use.
+Assess organizational performance across eight dimensions:
+
+**Strategy → Economics → Commercial Engine → Operating Model → Leadership → People → Execution → Technology & AI**
+
+Use it to identify where performance is breaking down, understand root causes, and determine which constraints require executive attention.
+
+[Open the Organizational Diagnostic](./01-organizational-diagnostic/README.md)
+
+### 02. Executive Diagnostic Scorecard
+
+Convert organizational diagnosis into executive action.
+
+Score each dimension, document the evidence, identify the critical constraints, assign executive ownership, and define measurable 90-day outcomes.
+
+[Open the Executive Diagnostic Scorecard](./01-organizational-diagnostic/EXECUTIVE-SCORECARD.md)
+
+---
+
+## Building Next
+
+The Executive Operating System will continue to expand with practical tools covering:
+
+- Executive Operating Cadence
+- 90-Day Executive Plan
+- Business Transformation Framework
+- Leadership Operating System
+- Executive KPI Architecture
+- Decision Rights Framework
+- International Expansion
+- GTM & Revenue
+- Selected operating case studies
+
+Each tool will follow the same principle:
+
+> **Make the organization easier to understand, easier to lead, and better able to execute.**
 
 ---
 
